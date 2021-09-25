@@ -1,5 +1,5 @@
 using namespace std;
 int main() {
-    cout << "Sarbatori Fericite!";
+    std::cout << "Sarbatori Fericite!";
     return 0;
 }
