@@ -6,5 +6,5 @@ int main() {
     cin >> x;
     double y = (3*((x*x)+(x*x*x*x))) / ((x*x)+(x*x*x*x)+(double)sqrt((x*x)+(x*x*x*x))) + ((double)sqrt((x*x)+(x*x*x*x)));
     cout << (int) y;
-    return 1;
+    return 0;
 }
