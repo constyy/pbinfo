@@ -3,6 +3,8 @@
     "files.associations": {
         "cmath": "cpp",
         "iomanip": "cpp",
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "xiosbase": "cpp",
+        "ios": "cpp"
     }
 }
