@@ -4,7 +4,7 @@ using namespace std;
 // unfinished (3803)
 int main() {
    int n;
-   double l, apotema, aria;
+   double l, aria;
    cin >> n >> l;
 
    aria = n*l*(l/2 * tan(3.14159*(n-2)/2/n))/2;
